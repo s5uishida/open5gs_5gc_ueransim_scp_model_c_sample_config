@@ -1,0 +1,1 @@
+# open5gs_5gc_ueransim_scp_model_c_sample_config
