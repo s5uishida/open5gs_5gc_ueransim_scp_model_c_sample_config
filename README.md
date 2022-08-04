@@ -128,10 +128,7 @@ sleep 5
 
 During 5G communication, you will obtain a pcap file on C-Plane VM by `tcpdump` and then convert 5G protocol traces into SVG sequence diagrams using [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer).
 
-In this case, I got the pcap file in the sample scenario of 5G communication with the following configuration.
-
-- [Open5GS 5GC & UERANSIM UE / RAN Sample Configuration - Select UPF based on S-NSSAI](https://github.com/s5uishida/open5gs_5gc_ueransim_snssai_upf_sample_config)
-
+In this case, I got the pcap file in the following scenario of 5G communication.
 ```
               C-Plane started
                          |
