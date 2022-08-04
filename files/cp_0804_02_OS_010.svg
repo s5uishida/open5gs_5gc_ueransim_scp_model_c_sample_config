@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="7573px" preserveAspectRatio="none" style="width:2096px;height:7573px;background:#FFFFFF;" version="1.1" viewBox="0 0 2096 7573" width="2096px" zoomAndPan="magnify"><defs/><g><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="51" x2="51" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="189" x2="189" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="335" x2="335" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="445" x2="445" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="561" x2="561" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="675" x2="675" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="796" x2="796" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="908" x2="908" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1008" x2="1008" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1124" x2="1124" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1245" x2="1245" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1359" x2="1359" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1497" x2="1497" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1655" x2="1655" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1783" x2="1783" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1894" x2="1894" y1="263.2629" y2="7311.6605"/><line style="stroke:#000000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="2021" x2="2021" y1="263.2629" y2="7311.6605"/><rect fill="#E6E6E6" height="74.8157" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="92" x="5" y="187.4472"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="21" y="210.6871">nnrf-disc</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="21" y="230.959">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="12" y="251.231">(127.0.0.10)</text><rect fill="#E6E6E6" height="74.8157" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="92" x="5" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="21" y="7333.9004">nnrf-disc</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="21" y="7354.1723">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="12" y="7374.4442">(127.0.0.10)</text><rect fill="#E6E6E6" height="257.2629" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="165" x="107" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="149" y="28.2399">namf-comm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="131.5" y="48.5118">nsmf-pdusession</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="164" y="68.7838">nudr-dr</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="152.5" y="89.0557">nausf-auth</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="159.5" y="109.3276">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="152.5" y="129.5995">nudm-sdm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="114" y="149.8714">npcf-am-policy-control</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="148.5" y="170.1433">nudm-uecm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="127.5" y="190.4152">nbsf-management</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="119.5" y="210.6871">npcf-smpolicycontrol</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="150" y="230.959">nudm-ueau</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="150.5" y="251.231">(127.0.1.10)</text><rect fill="#E6E6E6" height="257.2629" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="165" x="107" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="149" y="7333.9004">namf-comm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="131.5" y="7354.1723">nsmf-pdusession</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="164" y="7374.4442">nudr-dr</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="152.5" y="7394.7161">nausf-auth</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="159.5" y="7414.988">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="152.5" y="7435.2599">nudm-sdm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="114" y="7455.5319">npcf-am-policy-control</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="148.5" y="7475.8038">nudm-uecm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="127.5" y="7496.0757">nbsf-management</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="119.5" y="7516.3476">npcf-smpolicycontrol</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="150" y="7536.6195">nudm-ueau</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="150.5" y="7556.8914">(127.0.1.10)</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="282" y="227.991"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="289" y="251.231">192.168.0.115</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="282" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="289" y="7333.9004">192.168.0.115</text><rect fill="#E6E6E6" height="74.8157" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="95" x="398" y="187.4472"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="405" y="210.6871">namf-comm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="415.5" y="230.959">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="410.5" y="251.231">(127.0.0.5)</text><rect fill="#E6E6E6" height="74.8157" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="95" x="398" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="405" y="7333.9004">namf-comm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="415.5" y="7354.1723">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="410.5" y="7374.4442">(127.0.0.5)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="116" x="503" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="552" y="230.959">N1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="510" y="251.231">(192.168.0.111)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="116" x="503" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="552" y="7333.9004">N1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="510" y="7354.1723">(192.168.0.111)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="92" x="629" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="638" y="230.959">nausf-auth</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="636" y="251.231">(127.0.0.11)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="92" x="629" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="638" y="7333.9004">nausf-auth</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="636" y="7354.1723">(127.0.0.11)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="130" x="731" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="738" y="230.959">nsmf-pdusession</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="761" y="251.231">(127.0.0.4)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="130" x="731" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="738" y="7333.9004">nsmf-pdusession</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="761" y="7354.1723">(127.0.0.4)</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="74" x="871" y="227.991"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="878" y="251.231">127.0.0.1</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="74" x="871" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="878" y="7333.9004">127.0.0.1</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="955" y="227.991"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="962" y="251.231">192.168.0.113</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="955" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="962" y="7333.9004">192.168.0.113</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="1071" y="227.991"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1078" y="251.231">192.168.0.112</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="1071" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1078" y="7333.9004">192.168.0.112</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="116" x="1187" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="1236" y="230.959">N1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="1194" y="251.231">(192.168.0.131)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="116" x="1187" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="1236" y="7333.9004">N1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="1194" y="7354.1723">(192.168.0.131)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="92" x="1313" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="1333.5" y="230.959">nudr-dr</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1320" y="251.231">(127.0.0.20)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="92" x="1313" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="1333.5" y="7333.9004">nudr-dr</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1320" y="7354.1723">(127.0.0.20)</text><rect fill="#E6E6E6" height="74.8157" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="165" x="1415" y="187.4472"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="1422" y="210.6871">npcf-am-policy-control</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="1427.5" y="230.959">npcf-smpolicycontrol</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1458.5" y="251.231">(127.0.0.13)</text><rect fill="#E6E6E6" height="74.8157" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="165" x="1415" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="1422" y="7333.9004">npcf-am-policy-control</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="1427.5" y="7354.1723">npcf-smpolicycontrol</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1458.5" y="7374.4442">(127.0.0.13)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="130" x="1590" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="1597" y="230.959">nsmf-pdusession</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1616" y="251.231">(127.0.0.24)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="130" x="1590" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="1597" y="7333.9004">nsmf-pdusession</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1616" y="7354.1723">(127.0.0.24)</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="1730" y="227.991"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1737" y="251.231">192.168.0.114</text><rect fill="#E6E6E6" height="34.2719" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="106" x="1730" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1737" y="7333.9004">192.168.0.114</text><rect fill="#E6E6E6" height="115.3596" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="96" x="1846" y="146.9034"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="1853" y="170.1433">nudm-uecm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1857" y="190.4152">nudm-sdm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="1854.5" y="210.6871">nudm-ueau</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="1864" y="230.959">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1855" y="251.231">(127.0.0.12)</text><rect fill="#E6E6E6" height="115.3596" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="96" x="1846" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="1853" y="7333.9004">nudm-uecm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1857" y="7354.1723">nudm-sdm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="1854.5" y="7374.4442">nudm-ueau</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="1864" y="7394.7161">nnrf-nfm</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1855" y="7414.988">(127.0.0.12)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="138" x="1952" y="207.7191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1959" y="230.959">nbsf-management</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1982" y="251.231">(127.0.0.15)</text><rect fill="#E6E6E6" height="54.5438" rx="2.5" ry="2.5" style="stroke:#FFFFFF;stroke-width:0.5;" width="138" x="1952" y="7310.6605"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1959" y="7333.9004">nbsf-management</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1982" y="7354.1723">(127.0.0.15)</text><polygon fill="#000000" points="200.5,381.795,190.5,385.795,200.5,389.795,196.5,385.795" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="385.795" y2="385.795"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="206.5" y="380.051">2190, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,278.2629 L913,476.2629 L1093,476.2629 L1093,288.2629 L1083,278.2629 L913,278.2629 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1083,278.2629 L1083,288.2629 L1093,288.2629 L1083,278.2629 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="298.343">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="919" y="317.167">HTTP/2 stream 13 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="335.991">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="354.815">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="373.639">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="392.463">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="411.2871">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="430.1111">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="448.9351">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="467.7591"> </text><polygon fill="#000000" points="62,599.4472,52,603.4472,62,607.4472,58,603.4472" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="603.4472" y2="603.4472"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="578.8792">2192, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="455" x="68" y="597.7032">PATCH  /nnrf-nfm/v1/nf-instances/1bd25346-13ee-41ed-a71a-a19f3e4655b6</text><path d="M913,486.5031 L913,684.5031 L1381,684.5031 L1381,496.5031 L1371,486.5031 L913,486.5031 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1371,486.5031 L1371,496.5031 L1381,496.5031 L1371,486.5031 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="506.5831">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="525.4071">HTTP/2 stream: 179</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="544.2312">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="447" x="919" y="563.0552">:path: /nnrf-nfm/v1/nf-instances/1bd25346-13ee-41ed-a71a-a19f3e4655b6</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="581.8792">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="600.7032">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="619.5272">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="638.3512">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="657.1753">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="675.9993"> </text><polygon fill="#000000" points="62,798.2754,52,802.2754,62,806.2754,58,802.2754" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="802.2754" y2="802.2754"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="796.5314">2193, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,694.7433 L913,892.7433 L1100,892.7433 L1100,704.7433 L1090,694.7433 L913,694.7433 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,694.7433 L1090,704.7433 L1100,704.7433 L1090,694.7433 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="714.8233">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="733.6473">HTTP/2 stream 179 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="752.4713">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="771.2953">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="790.1194">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="808.9434">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="827.7674">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="846.5914">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="865.4154">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="884.2394"> </text><polygon fill="#000000" points="896,968.8675,906,972.8675,896,976.8675,900,972.8675" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="972.8675" y2="972.8675"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="967.1235">2195, HTTP/2 204 rsp.</text><path d="M913,902.9834 L913,1024.9834 L1154,1024.9834 L1154,912.9834 L1144,902.9834 L913,902.9834 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,902.9834 L1144,912.9834 L1154,912.9834 L1144,902.9834 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="923.0634">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="941.8875">HTTP/2 stream: 179</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="960.7115">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="979.5355">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="998.3595">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="1017.1835"> </text><polygon fill="#000000" points="896,1101.8116,906,1105.8116,896,1109.8116,900,1105.8116" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="189.5" x2="902" y1="1105.8116" y2="1105.8116"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="196.5" y="1100.0676">2197, HTTP/2 204 rsp.</text><path d="M913,1035.9275 L913,1157.9275 L1154,1157.9275 L1154,1045.9275 L1144,1035.9275 L913,1035.9275 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,1035.9275 L1144,1045.9275 L1154,1045.9275 L1144,1035.9275 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="1056.0075">127.0.1.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="1074.8316">HTTP/2 stream: 13</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="1093.6556">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="1112.4796">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="1131.3036">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="1150.1276"> </text><polygon fill="#000000" points="200.5,1291.2277,190.5,1295.2277,200.5,1299.2277,196.5,1295.2277" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="1295.2277" y2="1295.2277"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="206.5" y="1270.6597">2199, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="456" x="206.5" y="1289.4837">PATCH  /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925</text><path d="M913,1168.8716 L913,1385.8716 L1382,1385.8716 L1382,1178.8716 L1372,1168.8716 L913,1168.8716 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1372,1168.8716 L1372,1178.8716 L1382,1178.8716 L1372,1168.8716 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="1188.9516">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="1207.7757">HTTP/2 stream: 13</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="1226.5997">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="448" x="919" y="1245.4237">:path: /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="1264.2477">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="1283.0717">:authority: 127.0.1.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="919" y="1301.8957">3gpp-sbi-target-apiroot: http://127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="1320.7198">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="1339.5438">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="1358.3678">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="1377.1918"> </text><polygon fill="#000000" points="200.5,1499.4679,190.5,1503.4679,200.5,1507.4679,196.5,1503.4679" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="1503.4679" y2="1503.4679"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="206.5" y="1497.7239">2200, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,1395.9358 L913,1593.9358 L1093,1593.9358 L1093,1405.9358 L1083,1395.9358 L913,1395.9358 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1083,1395.9358 L1083,1405.9358 L1093,1405.9358 L1083,1395.9358 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="1416.0158">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="919" y="1434.8398">HTTP/2 stream 13 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="1453.6639">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="1472.4879">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="1491.3119">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="1510.1359">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="1528.9599">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="1547.7839">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="1566.608">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="1585.432"> </text><polygon fill="#000000" points="200.5,1726.5321,190.5,1730.5321,200.5,1734.5321,196.5,1730.5321" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="1730.5321" y2="1730.5321"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="206.5" y="1705.9641">2201, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="465" x="206.5" y="1724.7881">PATCH  /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb</text><path d="M913,1604.176 L913,1821.176 L1391,1821.176 L1391,1614.176 L1381,1604.176 L913,1604.176 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1381,1604.176 L1381,1614.176 L1391,1614.176 L1381,1604.176 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="1624.256">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="1643.08">HTTP/2 stream: 31</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="1661.904">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="457" x="919" y="1680.728">:path: /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="1699.5521">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="1718.3761">:authority: 127.0.1.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="919" y="1737.2001">3gpp-sbi-target-apiroot: http://127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="1756.0241">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="1774.8481">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="1793.6721">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="1812.4962"> </text><polygon fill="#000000" points="200.5,1934.7723,190.5,1938.7723,200.5,1942.7723,196.5,1938.7723" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="1938.7723" y2="1938.7723"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="206.5" y="1933.0283">2202, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,1831.2402 L913,2029.2402 L1093,2029.2402 L1093,1841.2402 L1083,1831.2402 L913,1831.2402 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1083,1831.2402 L1083,1841.2402 L1093,1841.2402 L1083,1831.2402 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="1851.3202">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="919" y="1870.1442">HTTP/2 stream 31 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="1888.9682">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="1907.7922">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="1926.6162">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="1945.4403">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="1964.2643">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="1983.0883">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="2001.9123">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="2020.7363"> </text><polygon fill="#000000" points="62,2152.4244,52,2156.4244,62,2160.4244,58,2156.4244" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="2156.4244" y2="2156.4244"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="2131.8564">2205, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="456" x="68" y="2150.6804">PATCH  /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925</text><path d="M913,2039.4803 L913,2237.4803 L1382,2237.4803 L1382,2049.4803 L1372,2039.4803 L913,2039.4803 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1372,2039.4803 L1372,2049.4803 L1382,2049.4803 L1372,2039.4803 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="2059.5603">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="2078.3844">HTTP/2 stream: 181</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="2097.2084">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="448" x="919" y="2116.0324">:path: /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="2134.8564">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="2153.6804">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="2172.5044">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="2191.3285">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="2210.1525">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="2228.9765"> </text><polygon fill="#000000" points="62,2351.2526,52,2355.2526,62,2359.2526,58,2355.2526" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="2355.2526" y2="2355.2526"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="2349.5086">2206, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,2247.7205 L913,2445.7205 L1100,2445.7205 L1100,2257.7205 L1090,2247.7205 L913,2247.7205 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,2247.7205 L1090,2257.7205 L1100,2257.7205 L1090,2247.7205 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="2267.8005">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="2286.6245">HTTP/2 stream 181 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="2305.4485">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="2324.2726">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="2343.0966">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="2361.9206">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="2380.7446">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="2399.5686">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="2418.3926">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="2437.2167"> </text><polygon fill="#000000" points="896,2521.8447,906,2525.8447,896,2529.8447,900,2525.8447" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="2525.8447" y2="2525.8447"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="2520.1007">2208, HTTP/2 204 rsp.</text><path d="M913,2455.9607 L913,2577.9607 L1154,2577.9607 L1154,2465.9607 L1144,2455.9607 L913,2455.9607 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,2455.9607 L1144,2465.9607 L1154,2465.9607 L1144,2455.9607 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="2476.0407">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="2494.8647">HTTP/2 stream: 181</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="2513.6887">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="2532.5127">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="2551.3367">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="2570.1608"> </text><polygon fill="#000000" points="62,2701.8489,52,2705.8489,62,2709.8489,58,2705.8489" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="2705.8489" y2="2705.8489"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="2681.2808">2210, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="465" x="68" y="2700.1049">PATCH  /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb</text><path d="M913,2588.9048 L913,2786.9048 L1391,2786.9048 L1391,2598.9048 L1381,2588.9048 L913,2588.9048 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1381,2588.9048 L1381,2598.9048 L1391,2598.9048 L1381,2588.9048 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="2608.9848">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="2627.8088">HTTP/2 stream: 183</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="2646.6328">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="457" x="919" y="2665.4568">:path: /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="2684.2808">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="2703.1049">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="2721.9289">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="2740.7529">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="2759.5769">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="2778.4009"> </text><polygon fill="#000000" points="62,2900.677,52,2904.677,62,2908.677,58,2904.677" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="2904.677" y2="2904.677"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="2898.933">2211, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,2797.1449 L913,2995.1449 L1100,2995.1449 L1100,2807.1449 L1090,2797.1449 L913,2797.1449 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,2797.1449 L1090,2807.1449 L1100,2807.1449 L1090,2797.1449 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="2817.2249">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="2836.049">HTTP/2 stream 183 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="2854.873">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="2873.697">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="2892.521">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="2911.345">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="2930.169">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="2948.9931">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="2967.8171">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="2986.6411"> </text><polygon fill="#000000" points="896,3071.2692,906,3075.2692,896,3079.2692,900,3075.2692" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="3075.2692" y2="3075.2692"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="3069.5251">2213, HTTP/2 204 rsp.</text><path d="M913,3005.3851 L913,3127.3851 L1154,3127.3851 L1154,3015.3851 L1144,3005.3851 L913,3005.3851 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,3005.3851 L1144,3015.3851 L1154,3015.3851 L1144,3005.3851 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="3025.4651">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="3044.2891">HTTP/2 stream: 183</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="3063.1131">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="3081.9372">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="3100.7612">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="3119.5852"> </text><polygon fill="#000000" points="896,3204.2133,906,3208.2133,896,3212.2133,900,3208.2133" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="189.5" x2="902" y1="3208.2133" y2="3208.2133"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="196.5" y="3202.4692">2215, HTTP/2 204 rsp.</text><path d="M913,3138.3292 L913,3260.3292 L1154,3260.3292 L1154,3148.3292 L1144,3138.3292 L913,3138.3292 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,3138.3292 L1144,3148.3292 L1154,3148.3292 L1144,3138.3292 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="3158.4092">127.0.1.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="3177.2332">HTTP/2 stream: 31</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="3196.0572">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="3214.8813">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="3233.7053">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="3252.5293"> </text><polygon fill="#000000" points="896,3337.1574,906,3341.1574,896,3345.1574,900,3341.1574" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="189.5" x2="902" y1="3341.1574" y2="3341.1574"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="196.5" y="3335.4133">2217, HTTP/2 204 rsp.</text><path d="M913,3271.2733 L913,3393.2733 L1154,3393.2733 L1154,3281.2733 L1144,3271.2733 L913,3271.2733 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,3271.2733 L1144,3281.2733 L1154,3281.2733 L1144,3271.2733 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="3291.3533">127.0.1.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="3310.1773">HTTP/2 stream: 13</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="3329.0013">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="3347.8254">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="3366.6494">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="3385.4734"> </text><polygon fill="#000000" points="200.5,3526.5735,190.5,3530.5735,200.5,3534.5735,196.5,3530.5735" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="3530.5735" y2="3530.5735"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="206.5" y="3506.0055">2219, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="459" x="206.5" y="3524.8295">PATCH  /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea</text><path d="M913,3404.2174 L913,3621.2174 L1385,3621.2174 L1385,3414.2174 L1375,3404.2174 L913,3404.2174 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1375,3404.2174 L1375,3414.2174 L1385,3414.2174 L1375,3404.2174 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="3424.2974">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="3443.1214">HTTP/2 stream: 61</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="3461.9454">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="451" x="919" y="3480.7695">:path: /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="3499.5935">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="3518.4175">:authority: 127.0.1.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="919" y="3537.2415">3gpp-sbi-target-apiroot: http://127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="3556.0655">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="3574.8895">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="3593.7136">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="3612.5376"> </text><polygon fill="#000000" points="200.5,3734.8137,190.5,3738.8137,200.5,3742.8137,196.5,3738.8137" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="3738.8137" y2="3738.8137"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="206.5" y="3733.0697">2220, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,3631.2816 L913,3829.2816 L1093,3829.2816 L1093,3641.2816 L1083,3631.2816 L913,3631.2816 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1083,3631.2816 L1083,3641.2816 L1093,3641.2816 L1083,3631.2816 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="3651.3616">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="919" y="3670.1856">HTTP/2 stream 61 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="3689.0096">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="3707.8336">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="3726.6577">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="3745.4817">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="3764.3057">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="3783.1297">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="3801.9537">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="3820.7777"> </text><polygon fill="#000000" points="62,3952.4658,52,3956.4658,62,3960.4658,58,3956.4658" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="3956.4658" y2="3956.4658"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="3931.8978">2222, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="459" x="68" y="3950.7218">PATCH  /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea</text><path d="M913,3839.5217 L913,4037.5217 L1385,4037.5217 L1385,3849.5217 L1375,3839.5217 L913,3839.5217 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1375,3839.5217 L1375,3849.5217 L1385,3849.5217 L1375,3839.5217 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="3859.6018">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="3878.4258">HTTP/2 stream: 185</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="3897.2498">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="451" x="919" y="3916.0738">:path: /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="3934.8978">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="3953.7218">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="3972.5459">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="3991.3699">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="4010.1939">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="4029.0179"> </text><polygon fill="#000000" points="62,4151.294,52,4155.294,62,4159.294,58,4155.294" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="4155.294" y2="4155.294"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="4149.55">2223, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,4047.7619 L913,4245.7619 L1100,4245.7619 L1100,4057.7619 L1090,4047.7619 L913,4047.7619 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,4047.7619 L1090,4057.7619 L1100,4057.7619 L1090,4047.7619 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="4067.8419">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="4086.6659">HTTP/2 stream 185 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="4105.49">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="4124.314">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="4143.138">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="4161.962">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="4180.786">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="4199.61">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="4218.4341">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="4237.2581"> </text><polygon fill="#000000" points="896,4321.8861,906,4325.8861,896,4329.8861,900,4325.8861" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="4325.8861" y2="4325.8861"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="4320.1421">2225, HTTP/2 204 rsp.</text><path d="M913,4256.0021 L913,4378.0021 L1154,4378.0021 L1154,4266.0021 L1144,4256.0021 L913,4256.0021 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,4256.0021 L1144,4266.0021 L1154,4266.0021 L1144,4256.0021 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="4276.0821">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="4294.9061">HTTP/2 stream: 185</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="4313.7301">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="4332.5541">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="4351.3782">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="4370.2022"> </text><polygon fill="#000000" points="896,4454.8302,906,4458.8302,896,4462.8302,900,4458.8302" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="189.5" x2="902" y1="4458.8302" y2="4458.8302"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="196.5" y="4453.0862">2227, HTTP/2 204 rsp.</text><path d="M913,4388.9462 L913,4510.9462 L1154,4510.9462 L1154,4398.9462 L1144,4388.9462 L913,4388.9462 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,4388.9462 L1144,4398.9462 L1154,4398.9462 L1144,4388.9462 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="4409.0262">127.0.1.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="4427.8502">HTTP/2 stream: 61</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="4446.6742">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="4465.4982">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="4484.3223">date: Thu, 04 Aug 2022 12:09:10 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="4503.1463"> </text><polygon fill="#000000" points="200.5,4644.2464,190.5,4648.2464,200.5,4652.2464,196.5,4648.2464" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="4648.2464" y2="4648.2464"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="206.5" y="4623.6784">2230, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="459" x="206.5" y="4642.5024">PATCH  /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf</text><path d="M913,4521.8903 L913,4738.8903 L1385,4738.8903 L1385,4531.8903 L1375,4521.8903 L913,4521.8903 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1375,4521.8903 L1375,4531.8903 L1385,4531.8903 L1375,4521.8903 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="4541.9703">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="4560.7943">HTTP/2 stream: 27</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="4579.6183">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="451" x="919" y="4598.4423">:path: /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="4617.2663">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="4636.0904">:authority: 127.0.1.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="919" y="4654.9144">3gpp-sbi-target-apiroot: http://127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="4673.7384">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="4692.5624">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="4711.3864">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="4730.2104"> </text><polygon fill="#000000" points="200.5,4852.4865,190.5,4856.4865,200.5,4860.4865,196.5,4856.4865" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="4856.4865" y2="4856.4865"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="206.5" y="4850.7425">2231, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,4748.9545 L913,4946.9545 L1093,4946.9545 L1093,4758.9545 L1083,4748.9545 L913,4748.9545 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1083,4748.9545 L1083,4758.9545 L1093,4758.9545 L1083,4748.9545 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="4769.0345">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="919" y="4787.8585">HTTP/2 stream 27 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="4806.6825">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="4825.5065">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="4844.3305">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="4863.1545">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="4881.9786">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="4900.8026">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="4919.6266">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="4938.4506"> </text><polygon fill="#000000" points="62,5070.1387,52,5074.1387,62,5078.1387,58,5074.1387" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="5074.1387" y2="5074.1387"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="5049.5707">2233, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="459" x="68" y="5068.3947">PATCH  /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf</text><path d="M913,4957.1946 L913,5155.1946 L1385,5155.1946 L1385,4967.1946 L1375,4957.1946 L913,4957.1946 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1375,4957.1946 L1375,4967.1946 L1385,4967.1946 L1375,4957.1946 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="4977.2746">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="4996.0986">HTTP/2 stream: 187</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="5014.9227">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="451" x="919" y="5033.7467">:path: /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="5052.5707">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="5071.3947">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="5090.2187">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="5109.0427">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="5127.8668">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="5146.6908"> </text><polygon fill="#000000" points="62,5268.9669,52,5272.9669,62,5276.9669,58,5272.9669" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="5272.9669" y2="5272.9669"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="5267.2229">2234, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,5165.4348 L913,5363.4348 L1100,5363.4348 L1100,5175.4348 L1090,5165.4348 L913,5165.4348 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,5165.4348 L1090,5175.4348 L1100,5175.4348 L1090,5165.4348 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="5185.5148">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="5204.3388">HTTP/2 stream 187 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="5223.1628">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="5241.9868">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="5260.8109">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="5279.6349">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="5298.4589">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="5317.2829">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="5336.1069">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="5354.9309"> </text><polygon fill="#000000" points="896,5439.559,906,5443.559,896,5447.559,900,5443.559" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="5443.559" y2="5443.559"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="5437.815">2236, HTTP/2 204 rsp.</text><path d="M913,5373.6749 L913,5495.6749 L1154,5495.6749 L1154,5383.6749 L1144,5373.6749 L913,5373.6749 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,5373.6749 L1144,5383.6749 L1154,5383.6749 L1144,5373.6749 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="5393.755">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="5412.579">HTTP/2 stream: 187</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="5431.403">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="5450.227">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="5469.051">date: Thu, 04 Aug 2022 12:09:11 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="5487.875"> </text><polygon fill="#000000" points="896,5572.5031,906,5576.5031,896,5580.5031,900,5576.5031" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="189.5" x2="902" y1="5576.5031" y2="5576.5031"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="196.5" y="5570.7591">2238, HTTP/2 204 rsp.</text><path d="M913,5506.619 L913,5628.619 L1154,5628.619 L1154,5516.619 L1144,5506.619 L913,5506.619 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,5506.619 L1144,5516.619 L1154,5516.619 L1144,5506.619 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="5526.6991">127.0.1.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="5545.5231">HTTP/2 stream: 27</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="5564.3471">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="5583.1711">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="5601.9951">date: Thu, 04 Aug 2022 12:09:11 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="5620.8191"> </text><polygon fill="#000000" points="200.5,5761.9193,190.5,5765.9193,200.5,5769.9193,196.5,5765.9193" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="5765.9193" y2="5765.9193"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="206.5" y="5741.3512">2243, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="454" x="206.5" y="5760.1753">PATCH  /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e</text><path d="M913,5639.5631 L913,5856.5631 L1380,5856.5631 L1380,5649.5631 L1370,5639.5631 L913,5639.5631 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1370,5639.5631 L1370,5649.5631 L1380,5649.5631 L1370,5639.5631 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="5659.6432">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="5678.4672">HTTP/2 stream: 29</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="5697.2912">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="446" x="919" y="5716.1152">:path: /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="5734.9392">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="5753.7632">:authority: 127.0.1.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="919" y="5772.5873">3gpp-sbi-target-apiroot: http://127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="5791.4113">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="5810.2353">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="5829.0593">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="5847.8833"> </text><polygon fill="#000000" points="200.5,5970.1594,190.5,5974.1594,200.5,5978.1594,196.5,5974.1594" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="194.5" x2="907" y1="5974.1594" y2="5974.1594"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="206.5" y="5968.4154">2244, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,5866.6273 L913,6064.6273 L1093,6064.6273 L1093,5876.6273 L1083,5866.6273 L913,5866.6273 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1083,5866.6273 L1083,5876.6273 L1093,5876.6273 L1083,5866.6273 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="5886.7073">127.0.0.1 to 127.0.1.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="919" y="5905.5314">HTTP/2 stream 29 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="5924.3554">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="5943.1794">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="5962.0034">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="5980.8274">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="5999.6514">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="6018.4755">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="6037.2995">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="6056.1235"> </text><polygon fill="#000000" points="62,6187.8116,52,6191.8116,62,6195.8116,58,6191.8116" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="6191.8116" y2="6191.8116"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="6167.2436">2247, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="454" x="68" y="6186.0676">PATCH  /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e</text><path d="M913,6074.8675 L913,6272.8675 L1380,6272.8675 L1380,6084.8675 L1370,6074.8675 L913,6074.8675 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1370,6074.8675 L1370,6084.8675 L1380,6084.8675 L1370,6074.8675 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="6094.9475">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="6113.7715">HTTP/2 stream: 189</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="6132.5955">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="446" x="919" y="6151.4196">:path: /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="6170.2436">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="6189.0676">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="6207.8916">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="6226.7156">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="6245.5396">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="6264.3637"> </text><polygon fill="#000000" points="62,6386.6398,52,6390.6398,62,6394.6398,58,6390.6398" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="6390.6398" y2="6390.6398"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="6384.8958">2248, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,6283.1077 L913,6481.1077 L1100,6481.1077 L1100,6293.1077 L1090,6283.1077 L913,6283.1077 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,6283.1077 L1090,6293.1077 L1100,6293.1077 L1090,6283.1077 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="6303.1877">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="6322.0117">HTTP/2 stream 189 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="6340.8357">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="6359.6597">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="6378.4837">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="6397.3078">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="6416.1318">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="6434.9558">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="6453.7798">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="6472.6038"> </text><polygon fill="#000000" points="896,6557.2319,906,6561.2319,896,6565.2319,900,6561.2319" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="6561.2319" y2="6561.2319"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="6555.4879">2250, HTTP/2 204 rsp.</text><path d="M913,6491.3478 L913,6613.3478 L1154,6613.3478 L1154,6501.3478 L1144,6491.3478 L913,6491.3478 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,6491.3478 L1144,6501.3478 L1154,6501.3478 L1144,6491.3478 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="6511.4278">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="6530.2519">HTTP/2 stream: 189</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="6549.0759">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="6567.8999">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="6586.7239">date: Thu, 04 Aug 2022 12:09:11 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="6605.5479"> </text><polygon fill="#000000" points="896,6690.176,906,6694.176,896,6698.176,900,6694.176" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="189.5" x2="902" y1="6694.176" y2="6694.176"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="196.5" y="6688.432">2252, HTTP/2 204 rsp.</text><path d="M913,6624.2919 L913,6746.2919 L1154,6746.2919 L1154,6634.2919 L1144,6624.2919 L913,6624.2919 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,6624.2919 L1144,6634.2919 L1154,6634.2919 L1144,6624.2919 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="6644.3719">127.0.1.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="919" y="6663.196">HTTP/2 stream: 29</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="6682.02">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="6700.844">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="6719.668">date: Thu, 04 Aug 2022 12:09:11 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="6738.492"> </text><polygon fill="#000000" points="62,6870.1801,52,6874.1801,62,6878.1801,58,6874.1801" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="6874.1801" y2="6874.1801"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="68" y="6849.6121">2264, HTTP/2 req.</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="453" x="68" y="6868.4361">PATCH  /nnrf-nfm/v1/nf-instances/18cb905e-13ee-41ed-940e-5956f6087391</text><path d="M913,6757.236 L913,6955.236 L1379,6955.236 L1379,6767.236 L1369,6757.236 L913,6757.236 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1369,6757.236 L1369,6767.236 L1379,6767.236 L1369,6757.236 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="6777.316">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="6796.1401">HTTP/2 stream: 191</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="919" y="6814.9641">:method: PATCH</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="445" x="919" y="6833.7881">:path: /nnrf-nfm/v1/nf-instances/18cb905e-13ee-41ed-940e-5956f6087391</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="919" y="6852.6121">:scheme: http</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="919" y="6871.4361">:authority: 127.0.0.10:7777</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="261" x="919" y="6890.2601">content-type: application/json-patch+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="313" x="919" y="6909.0842">accept: application/json,application/problem+json</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="919" y="6927.9082">content-length: 72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="6946.7322"> </text><polygon fill="#000000" points="62,7069.0083,52,7073.0083,62,7077.0083,58,7073.0083" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="56" x2="907" y1="7073.0083" y2="7073.0083"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="275" x="68" y="7067.2643">2265, HTTP/2 req. or rsp. (no HTTP/2 headers)</text><path d="M913,6965.4762 L913,7163.4762 L1100,7163.4762 L1100,6975.4762 L1090,6965.4762 L913,6965.4762 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><path d="M1090,6965.4762 L1090,6975.4762 L1100,6975.4762 L1090,6965.4762 " fill="#B3B3B3" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="6985.5562">127.0.0.1 to 127.0.0.10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="919" y="7004.3802">HTTP/2 stream 191 payload</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="7023.2042">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="7042.0283">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="96" x="931" y="7060.8523">"op": "replace",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="931" y="7079.6763">"path": "/nfStatus",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="142" x="931" y="7098.5003">"value": "REGISTERED"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="925" y="7117.3243">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="4" x="919" y="7136.1483">]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="7154.9724"> </text><polygon fill="#000000" points="896,7239.6004,906,7243.6004,896,7247.6004,900,7243.6004" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="51" x2="902" y1="7243.6004" y2="7243.6004"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="58" y="7237.8564">2267, HTTP/2 204 rsp.</text><path d="M913,7173.7164 L913,7295.7164 L1154,7295.7164 L1154,7183.7164 L1144,7173.7164 L913,7173.7164 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><path d="M1144,7173.7164 L1144,7183.7164 L1154,7183.7164 L1144,7173.7164 " fill="#E6E6E6" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="147" x="919" y="7193.7964">127.0.0.10 to 127.0.0.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="919" y="7212.6204">HTTP/2 stream: 191</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="919" y="7231.4444">:status: 204</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="919" y="7250.2684">server: Open5GS v2.4.9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="919" y="7269.0924">date: Thu, 04 Aug 2022 12:09:15 GMT</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="3" x="919" y="7287.9165"> </text><!--MD5=[1c9c0028846b574f4ddd9e969e224f5d]
+@startuml
+skinparam shadowing false
+skinparam NoteBorderColor white
+skinparam sequence {
+    ArrowColor black
+    LifeLineBorderColor black
+    LifeLineBackgroundColor black
+    ParticipantBorderColor white
+    ParticipantBackgroundColor #e6e6e6
+}
+participant "nnrf-disc\nnnrf-nfm\n(127.0.0.10)" as 127.0.0.10
+participant "namf-comm\nnsmf-pdusession\nnudr-dr\nnausf-auth\nnnrf-nfm\nnudm-sdm\nnpcf-am-policy-control\nnudm-uecm\nnbsf-management\nnpcf-smpolicycontrol\nnudm-ueau\n(127.0.1.10)" as 127.0.1.10
+participant "192.168.0.115"
+participant "namf-comm\nnnrf-nfm\n(127.0.0.5)" as 127.0.0.5
+participant "N1\n(192.168.0.111)" as 192.168.0.111
+participant "nausf-auth\n(127.0.0.11)" as 127.0.0.11
+participant "nsmf-pdusession\n(127.0.0.4)" as 127.0.0.4
+participant "127.0.0.1"
+participant "192.168.0.113"
+participant "192.168.0.112"
+participant "N1\n(192.168.0.131)" as 192.168.0.131
+participant "nudr-dr\n(127.0.0.20)" as 127.0.0.20
+participant "npcf-am-policy-control\nnpcf-smpolicycontrol\n(127.0.0.13)" as 127.0.0.13
+participant "nsmf-pdusession\n(127.0.0.24)" as 127.0.0.24
+participant "192.168.0.114"
+participant "nudm-uecm\nnudm-sdm\nnudm-ueau\nnnrf-nfm\n(127.0.0.12)" as 127.0.0.12
+participant "nbsf-management\n(127.0.0.15)" as 127.0.0.15
+
+"127.0.0.1" -> "127.0.1.10": 2190, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream 13 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2192, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd25346-13ee-41ed-a71a-a19f3e4655b6
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 179
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd25346-13ee-41ed-a71a-a19f3e4655b6
+:scheme: http
+:authority: 127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2193, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 179 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2195, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 179
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.1.10" -> "127.0.0.1": 2197, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.1.10 to 127.0.0.1**
+HTTP/2 stream: 13
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2199, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream: 13
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925
+:scheme: http
+:authority: 127.0.1.10:7777
+3gpp-sbi-target-apiroot: http://127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2200, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream 13 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2201, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream: 31
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb
+:scheme: http
+:authority: 127.0.1.10:7777
+3gpp-sbi-target-apiroot: http://127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2202, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream 31 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2205, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 181
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd8fd18-13ee-41ed-895d-39a358eca925
+:scheme: http
+:authority: 127.0.0.10:7777
+accept: application/json,application/problem+json
+content-type: application/json-patch+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2206, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 181 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2208, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 181
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2210, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 183
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd85b4c-13ee-41ed-bd35-b7b102be49bb
+:scheme: http
+:authority: 127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2211, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 183 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2213, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 183
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.1.10" -> "127.0.0.1": 2215, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.1.10 to 127.0.0.1**
+HTTP/2 stream: 31
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.1.10" -> "127.0.0.1": 2217, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.1.10 to 127.0.0.1**
+HTTP/2 stream: 13
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2219, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream: 61
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea
+:scheme: http
+:authority: 127.0.1.10:7777
+3gpp-sbi-target-apiroot: http://127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2220, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream 61 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2222, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 185
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bd591aa-13ee-41ed-95c9-0b21da084aea
+:scheme: http
+:authority: 127.0.0.10:7777
+accept: application/json,application/problem+json
+content-type: application/json-patch+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2223, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 185 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2225, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 185
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.1.10" -> "127.0.0.1": 2227, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.1.10 to 127.0.0.1**
+HTTP/2 stream: 61
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:10 GMT
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2230, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream: 27
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf
+:scheme: http
+:authority: 127.0.1.10:7777
+3gpp-sbi-target-apiroot: http://127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2231, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream 27 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2233, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 187
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bde72de-13ee-41ed-90a3-5d725db33cdf
+:scheme: http
+:authority: 127.0.0.10:7777
+accept: application/json,application/problem+json
+content-type: application/json-patch+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2234, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 187 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2236, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 187
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:11 GMT
+
+end note
+
+"127.0.1.10" -> "127.0.0.1": 2238, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.1.10 to 127.0.0.1**
+HTTP/2 stream: 27
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:11 GMT
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2243, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream: 29
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e
+:scheme: http
+:authority: 127.0.1.10:7777
+3gpp-sbi-target-apiroot: http://127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.1.10": 2244, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.1.10**
+HTTP/2 stream 29 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2247, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 189
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/1bdeb136-13ee-41ed-809e-bfd88f84a56e
+:scheme: http
+:authority: 127.0.0.10:7777
+accept: application/json,application/problem+json
+content-type: application/json-patch+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2248, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 189 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2250, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 189
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:11 GMT
+
+end note
+
+"127.0.1.10" -> "127.0.0.1": 2252, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.1.10 to 127.0.0.1**
+HTTP/2 stream: 29
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:11 GMT
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2264, HTTP/2 req.\nPATCH  /nnrf-nfm/v1/nf-instances/18cb905e-13ee-41ed-940e-5956f6087391
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream: 191
+:method: PATCH
+:path: /nnrf-nfm/v1/nf-instances/18cb905e-13ee-41ed-940e-5956f6087391
+:scheme: http
+:authority: 127.0.0.10:7777
+content-type: application/json-patch+json
+accept: application/json,application/problem+json
+content-length: 72
+
+end note
+
+"127.0.0.1" -> "127.0.0.10": 2265, HTTP/2 req. or rsp. (no HTTP/2 headers)
+
+note right #b3b3b3
+**127.0.0.1 to 127.0.0.10**
+HTTP/2 stream 191 payload
+[
+  {
+    "op": "replace",
+    "path": "/nfStatus",
+    "value": "REGISTERED"
+  }
+]
+
+end note
+
+"127.0.0.10" -> "127.0.0.1": 2267, HTTP/2 204 rsp.
+
+note right #e6e6e6
+**127.0.0.10 to 127.0.0.1**
+HTTP/2 stream: 191
+:status: 204
+server: Open5GS v2.4.9
+date: Thu, 04 Aug 2022 12:09:15 GMT
+
+end note
+
+@enduml
+
+PlantUML version 1.2022.6(Wed Jun 22 02:34:49 JST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+--></g></svg>
