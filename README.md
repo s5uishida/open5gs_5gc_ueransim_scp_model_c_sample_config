@@ -163,6 +163,11 @@ And processed the pcap file as follows.
 ```
 python3 trace_visualizer.py -wireshark "OS" -http2ports "1000-65535" <pcap file>
 ```
+If necessary, add the following options to make the easy-to-read diagrams.
+(there are other options)
+```
+-show_timestamp True -simple_diagrams True
+```
 I put a sample pcap and SVG files into [here](./files/).
 As for the pcap file, you can download it and view it with your local Wireshark.
 Also, for SVG files, you can view an enlarged sequence diagram by following the link of each file and pressing the `Raw` button on Github.
