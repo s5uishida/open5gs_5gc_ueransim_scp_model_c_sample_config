@@ -1,6 +1,8 @@
 # Open5GS 5GC & UERANSIM UE / RAN Sample Configuration - SCP Indirect communication Model C
 This describes a very simple configuration that uses Open5GS and UERANSIM for SCP(Service Communication Proxy) Indirect communication Model C.
 
+**Note. On 2022.10.22, Open5GS supports SCP Indirect communication Model D by default. Therefore, this article is out of date.**
+
 ---
 
 <h2 id="conf_list">List of Sample Configurations</h2>
