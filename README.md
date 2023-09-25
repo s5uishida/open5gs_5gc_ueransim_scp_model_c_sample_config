@@ -5,7 +5,9 @@ This describes a very simple configuration that uses Open5GS and UERANSIM for SC
 
 ---
 
-<h2 id="conf_list">List of Sample Configurations</h2>
+<a id="conf_list"></a>
+
+## List of Sample Configurations
 
 1. [One SGW-C/PGW-C, one SGW-U/PGW-U and one APN](https://github.com/s5uishida/open5gs_epc_srsran_sample_config)
 2. [One SGW-C/PGW-C, Multiple SGW-Us/PGW-Us and APNs](https://github.com/s5uishida/open5gs_epc_oai_sample_config)
@@ -22,7 +24,9 @@ This describes a very simple configuration that uses Open5GS and UERANSIM for SC
 13. [VPP-UPF with DPDK](https://github.com/s5uishida/open5gs_5gc_ueransim_vpp_upf_dpdk_sample_config)
 ---
 
-<h2 id="misc">Miscellaneous Notes</h2>
+<a id="misc"></a>
+
+## Miscellaneous Notes
 
 - [Install MongoDB 6.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb6_webui)
 - [Install MongoDB 4.4.18 on Ubuntu 20.04 for Raspberry Pi 4B](https://github.com/s5uishida/install_mongodb_on_ubuntu_for_rp4b)
@@ -30,7 +34,9 @@ This describes a very simple configuration that uses Open5GS and UERANSIM for SC
 - [A Note for Changing Network Interface of UPF from TUN to TAP in Open5GS](https://github.com/s5uishida/change_from_tun_to_tap_in_open5gs)
 ---
 
-<h2 id="toc">Table of Contents</h2>
+<a id="toc"></a>
+
+## Table of Contents
 
 - [Overview of Open5GS 5GC Simulation Mobile Network](#overview)
 - [Additional changes in configuration files of Open5GS 5GC C-Plane](#changes_cp)
@@ -39,7 +45,9 @@ This describes a very simple configuration that uses Open5GS and UERANSIM for SC
 - [Changelog (summary)](#changelog)
 
 ---
-<h2 id="overview">Overview of Open5GS 5GC Simulation Mobile Network</h2>
+<a id="overview"></a>
+
+## Overview of Open5GS 5GC Simulation Mobile Network
 
 This is an additional setting example when applying SCP Model C for the following sample configuration.
 
@@ -60,7 +68,9 @@ The SBI addresses of NRF and SCP are as follows.
 | NRF | 127.0.0.10 |
 | SCP | 127.0.1.10 |
 
-<h2 id="changes_cp">Additional changes in configuration files of Open5GS 5GC C-Plane</h2>
+<a id="changes_cp"></a>
+
+## Additional changes in configuration files of Open5GS 5GC C-Plane
 
 In this case, the following configuration is further changed for SCP Model C.
 
@@ -132,7 +142,9 @@ Also change `scp.yaml`.
  #
 ```
 
-<h2 id="run_cp">Run Open5GS 5GC C-Plane</h2>
+<a id="run_cp"></a>
+
+## Run Open5GS 5GC C-Plane
 
 Run Open5GS 5GC C-Plane adding `open5gs-scpd`.
 ```
@@ -151,7 +163,9 @@ sleep 5
 ./install/bin/open5gs-bsfd &
 ```
 
-<h2 id="5g_trace_visualizer">Process a pcap file with 5G Trace Visualizer</h2>
+<a id="5g_trace_visualizer"></a>
+
+## Process a pcap file with 5G Trace Visualizer
 
 During 5G communication, you will obtain a pcap file on C-Plane VM by `tcpdump` and then convert 5G protocol traces into SVG sequence diagrams using [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer).
 
@@ -203,6 +217,8 @@ Also, for SVG files, you can view an enlarged sequence diagram by following the 
 I was able to confirm the very simple configuration for SCP Model C.
 I would like to thank the excellent developers and all the contributors of Open5GS and UERANSIM.
 
-<h2 id="changelog">Changelog (summary)</h2>
+<a id="changelog"></a>
+
+## Changelog (summary)
 
 - [2022.08.04] Initial release.
